@@ -1,3 +1,10 @@
+SCREENSHOT:
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/110129027/220439024-1a3fbbbf-ad38-4b62-b310-116fc1b9ba56.png">
+
+HEROKU LINK:
+https://jesseps-text-editor.herokuapp.com/
+
+
 
   # Jessep's Awesome Text Editor
 
